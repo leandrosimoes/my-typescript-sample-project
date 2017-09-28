@@ -1,0 +1,23 @@
+{
+  "name": "mytypescriptproject",
+  "version": "1.0.0",
+  "description": "Just a test typescript project with Visual Studio",
+  "main": "/dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "visual",
+    "studio",
+    "webpack",
+    "sample"
+  ],
+  "author": "Leandro Simões <leandro.simoes@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^2.3.7",
+    "typescript": "^2.5.3",
+    "webpack": "^3.6.0"
+  }
+}
